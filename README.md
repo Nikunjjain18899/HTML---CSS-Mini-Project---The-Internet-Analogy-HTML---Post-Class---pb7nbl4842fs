@@ -1,2 +1,2 @@
 # Parallax Website -
-# Link-https://parallaxwebsite-nj.netlify.app/
+# Link-https:prallex-website-nj.netlify.app
